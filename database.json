@@ -18,5 +18,18 @@
   {
     "number": "6281328765973",
     "status": "active"
+  },
+
+  {
+    "number": "6289999999999",
+    "status": "blacklist"
+  },
+  {
+    "number": "123456789",
+    "status": "owner"
+  },
+  {
+    "number": "987654321",
+    "status": "seller"
   }
-]
+] 
